@@ -31,6 +31,10 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/VictorMartins96/VictorMartins96/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <div align="left">
   <a href="linkedin/victor-martins96" target="_blank">
