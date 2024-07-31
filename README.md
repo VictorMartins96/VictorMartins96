@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 28 anos <br>- Formado em Análise e Desenvolvimento de Sistemas<br>- Estudando os frameworks de JavaScript e criando novos projetos</p>
+<p align="left">- 28 anos<br>-Iniciando na área de Developer<br>- Formado em Análise e Desenvolvimento de Sistemas<br>- Estudando os frameworks de JavaScript e criando novos projetos</p>
 
 ###
 
