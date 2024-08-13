@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 28 anos<br>-Iniciando na área de Developer<br>- Formado em Análise e Desenvolvimento de Sistemas<br>- Estudando os frameworks de JavaScript e criando novos projetos</p>
+<p align="left">- 28 anos<br>-Iniciando na área de Desenvolvedor<br>- Formado em Análise e Desenvolvimento de Sistemas<br>- Estudando React, Vue, Node, banco de dados MySQL e criando novos projetos</p>
 
 ###
 
