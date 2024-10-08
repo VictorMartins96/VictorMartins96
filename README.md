@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 28 anos<br>-Desenvolvedor<br>- Formado em Análise e Desenvolvimento de Sistemas<br>- Estudando React, Vue, Node, banco de dados MySQL e criando novos projetos</p>
+<p align="left">- 28 anos<br>-Desenvolvedor<br>- Formado em Análise e Desenvolvimento de Sistemas<br>- Estudando PHP com banco de dados MySQL e criando novos projetos</p>
 
 ###
 
